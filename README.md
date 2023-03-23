@@ -1,1 +1,1 @@
-This is about Javascript Backend projects
+This is about ES6 classes
