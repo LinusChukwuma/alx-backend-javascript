@@ -1,1 +1,1 @@
-This is about ES6 classes
+This is about typescript
